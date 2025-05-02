@@ -1,4 +1,4 @@
-# Employee Management with Face Recognition
+# Employee Management with Face Recognition (mini-project sem-2)
 
 A Tkinter-based GUI app to manage employee data with integrated face recognition.
 
